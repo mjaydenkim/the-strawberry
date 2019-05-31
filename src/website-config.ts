@@ -52,7 +52,7 @@ const config: WebsiteConfig = {
   title: 'Ghost',
   description: 'The professional publishing platform',
   coverImage: 'img/blog-cover.jpg',
-  logo: 'img/ghost-logo.png',
+  logo: 'img/thestrawberry.png',
   lang: 'en',
   siteUrl: 'https://gatsby-casper.netlify.com',
   facebook: 'https://www.facebook.com/ghost',
