@@ -50,7 +50,7 @@ export interface WebsiteConfig {
 
 const config: WebsiteConfig = {
   title: 'Ghost',
-  description: 'The professional publishing platform',
+  description: "America's most reliable news source",
   coverImage: 'img/blog-cover.jpg',
   logo: 'img/thestrawberry.png',
   lang: 'en',
