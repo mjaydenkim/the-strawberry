@@ -17,8 +17,9 @@ On May 29, 2019, Robert S. Mueller gave a public speech about the report he and 
 <br/>
 
 The Strawberry was able to listen to confidential phone calls recorded of the Russians, including one that occured right before they bought the TV. 
-<br/>
-"Hello, Mr. Sergey," the call starts.
+<br/> <br/>
+
+`"Hello, Mr. Sergey," the call starts.
 <br/>
 "Hello," Sergey says back.
 <br/>
@@ -26,9 +27,8 @@ The Strawberry was able to listen to confidential phone calls recorded of the Ru
 <br/>
 "Oh, uh... Oh, I know! Let's buy 27 wide-screen 4K TVs from Rob's account on Amazon, and threaten him that we will buy more unless he stops investigating."
 <br/>
-"Oh, you're brilliant! That's a great idea! He won't like that one..."
-<br/>
-
+"Oh, you're brilliant! That's a great idea! He won't like that one..."`
+<br/><br/>
 The call ends here.
 <br/>
 "It's a real tragedy," Nancy Pelosi stated of the incident. "I would've loved to see Trump in trouble. All I can say is that I hope that Mr. Sergey and his affiliates are enjoying *The Office* on their 66 wide-screen 4k TVs."
