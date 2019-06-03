@@ -49,7 +49,7 @@ export interface WebsiteConfig {
 }
 
 const config: WebsiteConfig = {
-  title: 'Ghost',
+  title: 'The Strawberry',
   description: "America's most reliable news source",
   coverImage: 'img/blog-cover.jpg',
   logo: 'img/thestrawberry.png',
