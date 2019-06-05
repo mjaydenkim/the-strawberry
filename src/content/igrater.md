@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Apple Releases New $6000 Cheese Grater, Called the iGrater"
-author: Ghost
+author: Matthew Kim
 tags: ["Technology"]
 image: img/macpro.jpg
 date: "2019-06-05T23:46:37.121Z"
