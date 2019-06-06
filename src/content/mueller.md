@@ -23,7 +23,7 @@ The Strawberry was able to listen to confidential phone calls recorded of the Ru
 <br/>
 "Hello," Sergey says back.
 <br/>
-"So, I just found out that a group of Americans, being led by Robert Mueller, are investigating us and our relationship to Russia, and I would like the investigation to stop before critical and secretive information is revealed about our country. What should we do?"
+"So, I just found out that a group of Americans, being led by Robert Mueller, are investigating us and our relationship to Trump, and I would like the investigation to stop before critical and secretive information is revealed about our country. What should we do?"
 <br/>
 "Oh, uh... Oh, I know! Let's buy 27 wide-screen 4K TVs from Rob's account on Amazon, and threaten him that we will buy more unless he stops investigating."
 <br/>
@@ -31,6 +31,6 @@ The Strawberry was able to listen to confidential phone calls recorded of the Ru
 <br/><br/>
 
 The call ends here.
-<br/><br/>
+<br/><br/><br/>
 "It's a real tragedy," Nancy Pelosi stated of the incident. "I would've loved to see Trump in trouble. All I can say is that I hope that Mr. Sergey and his affiliates are enjoying *The Office* on their 66 wide-screen 4k TVs."
 
