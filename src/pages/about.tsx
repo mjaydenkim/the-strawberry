@@ -39,7 +39,7 @@ const About: React.FunctionComponent = () => (
               <p>
                 We are The Strawberry, America's best and most trusted news source.
                 We find great and newsworthy stories from all over the country and sometimes the world, and we report on it
-                as honestly and truthfully as we can. Thanks for reading The Strawerry!
+                as honestly and truthfully as we can. Thanks for reading The Strawberry!
               </p>
             </div>
           </PostFullContent>
