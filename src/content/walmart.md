@@ -4,7 +4,7 @@ title: "Walmart Workers Get New Vests"
 author: Matthew Kim
 tags: ["Retail"]
 image: img/demo4.jpg
-date: "2012-08-20T15:11:55.000Z"
+date: 2019-06-05T23:46:37.121Z
 draft: false
 ---
 
