@@ -9,11 +9,11 @@ draft: false
 ---
 
 
-Walmart vests are getting a huge redesign for the first time since 2014. The news was announced during Walmart's annual shareholders meeting, and they are getting a pretty big change. Walmart announced that the new vests will be made from recycled bottles, and that they're "steel grey" color. The vests also have large text on each side. The front side says "Please tip me," while the back side says "We get paid starvation wages, please help". 
+Walmart vests are getting a huge redesign for the first time since 2014. The news was announced during Walmart's annual shareholders meeting, and they are getting a pretty big change. Walmart announced that the new vests will be made from recycled bottles, and that they're "steel grey" color. The vests also have large text on each side. The front side says "Please tip me," while the back side says "We get paid starvation wages, please help."
 
 # Why was the vest changed?
 
-The CEO of Walmart, Doug McMillon, stated, "These vests are a great way for the people who work with us to get paid without us having to pay any more." Since the Walmart vests hadn't changed in around 5 years, the company decided it was time for a redesign. The vests are being tested in a few locations, and will roll out nationwide by the end of the year. The workers will get the vests for free and can upgrade them with special designs for $11, which Walmart states is so that they can make back the money that they lose on their deals. 
+The CEO of Walmart, Doug McMillon, stated, "These vests are a great way for the people who work with us to get paid without us having to pay any more." Since the Walmart vests hadn't changed in around 5 years, the company decided it was time for a redesign. The vests are being tested in a few locations and will roll out nationwide by the end of the year. The workers will get the vests for free and can upgrade them with special designs for $11, which Walmart states is so that they can make back the money that they lose on their deals. 
 
 # Feel the Bern
 
